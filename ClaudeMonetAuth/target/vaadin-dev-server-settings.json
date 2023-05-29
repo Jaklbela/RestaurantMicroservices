@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/KsZh1/Documents/homework/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/KsZh1/Documents/homework/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/KsZh1/Documents/homework/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\KsZh1\\Documents\\homework\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\KsZh1\\Documents\\homework\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/KsZh1/Documents/homework/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/KsZh1/Documents/homework/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/KsZh1/Documents/homework/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\KsZh1\\Documents\\homework\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
