@@ -1,5 +1,6 @@
 # Жмурина Ксения Игоревна, БПИ218. ДЗ по КПО 4
 # Документация в Postman: https://www.postman.com/supply-physicist-32979132/workspace/claudemonet/collection/27667068-bded2baa-6f22-4100-8ca8-378c66b627b7?action=share&creator=27667068
+### По этой ссылке должна открыться сама документация https://www.postman.com/supply-physicist-32979132/workspace/claudemonet/documentation/27667068-bded2baa-6f22-4100-8ca8-378c66b627b7?entity=&branch=&version=
 # Сервисы:
 ## ClaudeMonetAuthorization - авторизация и регистрация пользователя
 ## ClaudeMonetOrder - сервис обработки заказов и блюд
